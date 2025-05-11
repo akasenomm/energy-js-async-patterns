@@ -1,0 +1,9 @@
+{
+  "name": "js-patterns-energy",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "license": "CC-BY-NC-ND-4.0"
+}

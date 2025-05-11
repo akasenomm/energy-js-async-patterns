@@ -1,0 +1,8 @@
+Tests completed successfully
+
+ Performance counter stats for 'system wide':
+
+              3.52 Joules power/energy-psys/                                                    
+
+       1.258833454 seconds time elapsed
+
